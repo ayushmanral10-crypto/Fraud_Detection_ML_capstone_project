@@ -69,17 +69,21 @@ Model Comparison
 | XGBoost | 0.96 | 0.20 | 0.71 |
 
 Final Model Selected: XGBoost
-
 Reason:  
-XGBoost achieved the highest Recall (0.96), which is critical in fraud detection since missing fraudulent transactions results in financial loss.
-
-Although accuracy was lower, minimizing false negatives was prioritized over overall accuracy.
-
+XGBoost achieved the highest Recall (0.96), which is critical in fraud detection since missing fraudulent transactions results in financial loss. Although accuracy was lower, minimizing false negatives was prioritized over overall accuracy.
 
 
 Deployment
 
 The model is deployed using 'Streamlit'.
+The application allows users to input transaction features and receive real-time predictions for fraud detection.
+
+Project links 
+GitHub Repository:
+https://github.com/ayushmanral10-crypto/Fraud_Detection_ML_capstone_project.git
+
+Live Streamlit App Link:
+https://frauddetectionmlcapstoneproject-nznayscn9kttgbsdeywyxq.streamlit.app/
 
 
 Project Structure
