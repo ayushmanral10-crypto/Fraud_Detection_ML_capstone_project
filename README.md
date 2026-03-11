@@ -90,10 +90,14 @@ https://frauddetectionmlcapstoneproject-nznayscn9kttgbsdeywyxq.streamlit.app/
 **Project Structure**
 
 Fraud_App/
+
 │
 ├── app.py
+
 ├── fraud_model.pkl
+
 ├── requirements.txt
+
 ├── README.md
 
 
