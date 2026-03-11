@@ -31,6 +31,7 @@ This project builds an intelligent ML system that:
 - Highly imbalanced dataset
 
 Performed:
+
 - Data inspection (`info`, `describe`)
 - Duplicate & missing value checks
 - Class distribution analysis
@@ -80,6 +81,7 @@ The model is deployed using 'Streamlit'.
 The application allows users to input transaction features and receive real-time predictions for fraud detection.
 
 **Project links** 
+
 GitHub Repository:
 https://github.com/ayushmanral10-crypto/Fraud_Detection_ML_capstone_project.git
 
