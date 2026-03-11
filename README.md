@@ -89,9 +89,10 @@ https://frauddetectionmlcapstoneproject-nznayscn9kttgbsdeywyxq.streamlit.app/
 
 **Project Structure**
 
-Fraud_App/
+Fraud_App
 
 │
+
 ├── app.py
 
 ├── fraud_model.pkl
