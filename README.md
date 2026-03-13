@@ -24,15 +24,15 @@ This project builds an intelligent ML system that:
 
 **Dataset Information**
 
-- Dataset: `transaction_fraud.csv`
-- Target Variable: `is_fraud`
+- Dataset: **`transaction_fraud.csv`**
+- Target Variable: **`is_fraud**`
     - 0 → Legitimate Transaction
     - 1 → Fraudulent Transaction
 - Highly imbalanced dataset
 
 Performed:
 
-- Data inspection (`info`, `describe`)
+- Data inspection **(`info`, `describe`)**
 - Duplicate & missing value checks
 - Class distribution analysis
 
